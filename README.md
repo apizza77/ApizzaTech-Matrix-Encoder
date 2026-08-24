@@ -8,3 +8,6 @@ This software will encode an LED Matrix board from Hanover Displays, commonly fo
 - An Arduio
 - A MAX485 TTL-to-RS485 breakout module
 - Cable (will specify more when I finish the project)
+
+## What you need on your system
+pywebview 5.0
